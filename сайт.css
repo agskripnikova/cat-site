@@ -1,0 +1,14 @@
+body {
+    background: no_repeats;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+}
+h1 {
+     font-family:Righteous;
+     text-align: center;
+    }
+p {
+}    
