@@ -9,6 +9,9 @@ body {
 h1 {
      font-family:Righteous;
      text-align: center;
+     font-size: 1000%;
     }
-p {
-}    
+.round {
+    border-radius: 1000px;
+    box-shadow: 0 0 0 3px white;
+}
